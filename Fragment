@@ -1508,7 +1508,7 @@
             "show": false
           },
           "wsSettings": {
-            "path": "/ws/8080",
+            "path": "/omidkhan?ed=2048",
             "headers": {
               "Host": "fr.mydognino.ir"
             }
