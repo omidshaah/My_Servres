@@ -1,4 +1,4 @@
-Server1 :
+"Server1"
 {
   "log": {
     "access": "",
@@ -175,7 +175,7 @@ Server1 :
     ]
   }
 }
-Server2 :
+"Server2"
 {
   "log": {
     "access": "",
